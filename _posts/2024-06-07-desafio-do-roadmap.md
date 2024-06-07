@@ -13,7 +13,7 @@ Seguinda minha lógica, vou começar com Golang, SQL, Rust e por fim, DevOps.
 
 ### Golang Roadmap
 
-Analisando o <a href="https://roadmap.sh/golang" target="_Blank">roadmap do Go</a>, está divido em:
+Analisando o <a href="https://roadmap.sh/golang" target="_Blank">roadmap do Go</a>, está dividido em:
 
 - Básico
   - Váriaveis
