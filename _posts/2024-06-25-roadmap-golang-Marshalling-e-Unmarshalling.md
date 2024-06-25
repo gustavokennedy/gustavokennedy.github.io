@@ -266,4 +266,4 @@ Erro ao desserializar JSON: json: cannot unmarshal string into Go struct field P
 
 Entender Marshalling e Unmarshalling é fundamental para manipular dados.
 
-Lembre-se de sempre lidar com erros e validar seus dados. E, claro, continue praticando e experimentando com diferentes tipos de dados e estruturas. Boa codificação!
+Lembre-se de sempre lidar com erros e validar seus dados. E, claro, continue praticando e experimentando com diferentes tipos de dados e estruturas. Borá codar!
