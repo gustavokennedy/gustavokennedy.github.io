@@ -199,4 +199,4 @@ func generateBashCompletionScript() {
 
 Cobra é uma ferramenta poderosa para criar CLIs em Go. Oferece uma estrutura organizada e extensível que facilita o desenvolvimento de aplicações complexas. Cobra se torna uma escolha natural para desenvolvedores Go que desejam construir interfaces de linha de comando eficientes e fáceis de usar quando oferece suporte a comandos, subcomandos, sinalizadores e geração de documentação. 
 
-Tendo passado pelos exemplos e conceitos que discutimos até agora, agora você está bom o suficiente para começar a trabalhar em seu próprio erro futuro.
+Tendo passado pelos exemplos e conceitos que discutimos até agora, agora você está bom o suficiente para começar a trabalhar.
