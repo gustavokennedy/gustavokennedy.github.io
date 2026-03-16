@@ -74,10 +74,6 @@ Para total transparência, estou compartilhando o progresso:
   https://investidor10.com.br/wallet/public/1569385  
   (Evolução mensal, aportes e alocação aproximada — atualizo conforme os aportes diários.)
 
-- Carteira de Bitcoin (on-chain, só visualização):  
-  https://www.blockchain.com/pt/explorer/addresses/btc/1Jmnp2C7kgF2Yy1xtZ4vDNGsQt6jH77Jpe  
-  (Exploradores mostram os recebimentos — sem envios, por favor!)
-
 Sinta-se à vontade para acompanhar, sugerir ou questionar. Feedback ajuda a refinar!
 
 ## Próximos passos e ajustes planejados
