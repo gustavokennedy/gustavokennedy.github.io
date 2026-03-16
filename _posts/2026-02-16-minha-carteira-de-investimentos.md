@@ -23,9 +23,6 @@ Ter exposição a um ativo de alta assimetria que funciona como reserva de valor
 ⚙️ **Como aplico**  
 Estou comprando diretamente na Binance e transfiro imediatamente para uma carteira offline de papel (paper wallet) gerada em ambiente air-gapped. Nunca deixo saldo na exchange. Planejo migrar para multi-sig quando o montante crescer.
 
-Carteira pública de BTC para acompanhamento (apenas visualização, sem envios):  
-https://www.blockchain.com/pt/explorer/addresses/btc/1Jmnp2C7kgF2Yy1xtZ4vDNGsQt6jH77Jpe  
-
 Cotação aproximada hoje (16/02/2026): ~R$ 357.000–359.500.
 
 ### 10% Dólar – R$ 140/mês
